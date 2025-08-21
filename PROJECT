@@ -3,7 +3,7 @@
 # and allow the plugins properly work.
 # More info: https://book.kubebuilder.io/reference/project-config.html
 cliVersion: 4.7.1
-domain: mezscale
+domain: mezscale.io
 layout:
 - go.kubebuilder.io/v4
 projectName: mezscale
